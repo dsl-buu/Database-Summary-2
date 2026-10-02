@@ -1,0 +1,6 @@
+{
+  "name": "แดชบอร์ดสรุปข้อมูลกองทุนกู้ยืม (DSL Summary Dashboard)",
+  "description": "ระบบแดชบอร์ดสรุปข้อมูลกองทุนเงินให้กู้ยืมเพื่อการศึกษา ติดตาม 11 ขั้นตอนการดำเนินงาน 4 กลุ่มผู้กู้ พร้อมเชื่อมต่อข้อมูลแบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
